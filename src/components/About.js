@@ -1,7 +1,6 @@
 import React from "react";
 import createClass from "create-react-class";
 import res from "./images/res.jpg";
-import be from "./images/be.jpg";
 import quiz from "./images/quiz.webp";
 //using React.createclass method to create component
 const About = createClass({
