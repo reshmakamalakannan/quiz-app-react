@@ -41,7 +41,7 @@ export default class Footer extends React.Component {
             </div>
           </div>
           <h1 className="credit">
-            © Copyright 2022 - ReactQuiz. All Rights Reserved.
+            © Copyright 2023 - ReactQuiz. All Rights Reserved.
           </h1>
         </div>
       </div>
